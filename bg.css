@@ -1,0 +1,19 @@
+* {
+    margin: 1px;
+    padding: 0.5px;
+}
+body{
+    font:'Raleway',sans-serif;
+    color:#162fd0;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    background: linear-gradient(to right,(#b2355200, #79345d00));
+}
+h4{
+    
+    color:rgb(4, 35 ,2);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0 em;
+}
